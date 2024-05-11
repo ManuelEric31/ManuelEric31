@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Universitas Dian Nuswantoro  
 - 🌱 I’m currently learning Flutter and Mobile Development  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manuel-eric-saputra/) and [Email]("mailto:manueleric.saputra@gmail.com")
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manuel-eric-saputra/) and [Email](mailto:manueleric.saputra@gmail.com)
 
 <p align="left">
 <a href="https://github.com/ManuelEric31">
